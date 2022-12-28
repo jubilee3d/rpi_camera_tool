@@ -9,7 +9,7 @@ This is a Jubilee-compatible modulare camera inspection tool for inspection appl
 Building one is straightforward too!
 Overall cost is ~$100 (USD) plus whatever you're willing to chip in for the lens.
 
-Simply order the parts in the [Shopping List](https://docs.google.com/spreadsheets/d/19zSPgaUJId5xt-jpjvXQGE22AiIK3zP_XUoAT0gs4UI/edit?usp=sharing) and follow the step-by-step instructions.
+Simply order the parts in the [Shopping List](https://docs.google.com/spreadsheets/d/1ocisjYsW58gLa29wGZ_20qWAk2XupmHxoTtaSmWADwQ/edit?usp=sharing) and follow the step-by-step instructions.
 
 For more information on provisioning this tool for Jubilee, have a look at its corresponding [tool page](https://jubilee3d.com/index.php?title=Camera_Inspection_Tool).
 
@@ -17,7 +17,7 @@ For more information on provisioning this tool for Jubilee, have a look at its c
 * Accepts C and CS-mount lenses with an overall case size of up to 40mm diameter.
 * COB LED-based subject lighting solution can be scaled to adjust for different lens sizes.
 * compact! Does not sacrifice any of the build volume
-* Purchased Parts called out in the [Shopping List]()
+* Purchased Parts called out in the [Shopping List](https://docs.google.com/spreadsheets/d/1ocisjYsW58gLa29wGZ_20qWAk2XupmHxoTtaSmWADwQ/edit?usp=sharing)
 
 ## Community
 This tool is part of the bigger ecosystem of Jubilee-compatible tools that implement the [E3D Toolchanger Coupler](https://github.com/e3donline/ToolChanger) standard.
