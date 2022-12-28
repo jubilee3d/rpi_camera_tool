@@ -1,7 +1,7 @@
 ## Jubilee Camera Inspection Tool
 an RP HQ Camera based camera setup that accepts various lenses
 
-<img src="https://github.com/machineagency/jubilee_syringe_tool/blob/main/pics/camera_inspection_tool_overview.png" width="800">
+<img src="https://github.com/poofjunior/jubilee_camera_tool/blob/main/pics/camera_inspection_tool_overview.png" width="800">
 
 ## Overview
 This is a Jubilee-compatible modulare camera inspection tool for inspection applications of items on the bed.
