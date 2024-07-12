@@ -24,7 +24,7 @@ This tool is part of the bigger ecosystem of Jubilee-compatible tools that imple
 For more on Jubilee, have a look at the [parent project](https://github.com/machineagency/jubilee) or join the [Discord](https://discord.gg/jubilee).
 
 ## Who made this?
-This tool was created by [Joshua Vasquez](http://www.doublejumpelectric.com/) formerly at [Machine Agency](http://depts.washington.edu/machines/) at the University of Washington.
+This tool was created by [Sonya Vasquez](http://www.doublejumpelectric.com/) formerly at [Machine Agency](http://depts.washington.edu/machines/) at the University of Washington.
 
 ## Use the Source!
 This tool is licensed with a [Creative Commons Attribution 4.0 Unported License](https://creativecommons.org/licenses/by/4.0/).
